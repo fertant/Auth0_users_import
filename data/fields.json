@@ -1,0 +1,40 @@
+[
+    {
+      "name": "user_id"
+    },
+    {
+      "name": "email"
+    },
+    {
+      "name": "email_verified"
+    },
+    {
+      "name": "created_at"
+    },
+    {
+      "name": "updated_at"
+    },
+    {
+      "name": "last_login"
+    },
+    {
+      "name": "last_ip"
+    },
+    {
+      "name": "logins_count"
+    },
+    {
+      "name": "app_metadata"
+    },
+    {
+      "name": "user_metadata"
+    },
+    {
+      "name": "app_metadata.registering_app",
+      "export_as": "registering_app"
+    },
+    {
+      "name": "user_metadata.app_id",
+      "export_as": "app_id"
+    }
+]
